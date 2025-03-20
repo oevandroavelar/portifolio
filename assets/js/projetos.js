@@ -152,7 +152,7 @@ function projetos(section) {
           <p>
             Empresa onde presto serviços como Analista de Suporte do sistema, realizando atendimento aos usuários, validações de correções do time de tecnologia e testes em base local da demandas de desenvolvimento.
           </p>
-          <p>HTML - CSS - JS</p>
+          <p>HTML - CSS - JS - REACT - RUBY</p>
         </div>
         <div class="card">
           <h3>Meu Portifólio</h3>
