@@ -440,7 +440,7 @@ body.menu-expanded button path {
   margin-bottom: 3.2rem;
 }
 
-#home .line {
+/*#home .line {
   border-right: 0.2rem solid var(--primary-color);
   white-space: nowrap;
   overflow: hidden;
@@ -467,7 +467,7 @@ body.menu-expanded button path {
   to {
     border-right-color: transparent;
   }
-}
+}*/
 
 #home .button {
   margin-inline: auto;
