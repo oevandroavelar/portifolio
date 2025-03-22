@@ -155,11 +155,11 @@ function projetos(section) {
           <p>HTML - CSS - JS - REACT - RUBY</p>
         </div>
         <div class="card">
-          <h3>Meu Portifólio</h3>
+          <h3>Meu Portfólio</h3>
           <div class="img-wrapper">
-            <img src="assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
+            <img src="assets/images/projects/portfolio.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/oevandroavelar/portifolio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/oevandroavelar/portfolio" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"

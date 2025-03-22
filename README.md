@@ -1,7 +1,7 @@
 # 🎨 Portfólio - Evandro Avelar 💻
 
 <p align="center">
-  <img src="assets/images/portifolio.png" alt="Imagem do projeto finalizado">
+  <img src="assets/images/portfolio.png" alt="Imagem do projeto finalizado">
 </p>
 
 <p align="center">
