@@ -1662,4 +1662,18 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
     width: 9rem;
     height: 2rem;
   }
+
+  .logo {
+    display: flex;
+    align-items: center; /* Alinha verticalmente */
+    gap: 8px; /* Espaço entre a imagem e o texto */
+    text-decoration: none; /* Remove sublinhado do link */
+    font-size: 18px; /* Ajuste conforme necessário */
+    color: #000; /* Cor do texto */
+}
+.logo img {
+    width: 70px; /* Ajuste conforme necessário */
+    height: auto;
+}
+  
 }
